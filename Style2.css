@@ -438,9 +438,9 @@ nav .fas {
 
      .header-image {
           /* display: none;      it is set because hum css file ki image use kar rhe the ab hum image html ne di hyi use kar rhe hai*/
-          width: 14rem;
+          width: 12rem;
           margin-top: 3rem;
-          /* margin-left: 10px; */
+          margin-left: 10px; 
           margin-left: 20%;
      }
 
